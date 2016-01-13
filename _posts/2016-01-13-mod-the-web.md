@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T00:19:57.250Z'
-dateModified: '2016-01-13T00:17:32.809Z'
+datePublished: '2016-01-13T00:28:21.814Z'
+dateModified: '2016-01-13T00:27:54.988Z'
 title: Mod the web
 author: []
+sourcePath: _posts/2016-01-13-mod-the-web.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-mod-the-web.md
-published: true
 url: mod-the-web/index.html
 _type: Article
 
