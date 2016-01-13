@@ -1,7 +1,7 @@
 name: Modularity
 favicon: null
-layout_spectrum: 0.16027769283391535
-typography_spectrum: 0.6092707647476345
+layout_spectrum: 1
+typography_spectrum: 0.20819
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.20229082414880395
-  lightness: 0.5376971838995814
-  saturation: 0.25132468552328646
-  rhythmicContrast: 0.37878249073401093
+    - '#ffffff'
+    - '#100f17'
+    - '#37464d'
+    - '#c7c2be'
+    - '#84756b'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
